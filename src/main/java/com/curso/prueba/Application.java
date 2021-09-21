@@ -10,6 +10,6 @@ public class Application
 	
 	public static void main( String[] args )
 	{
-		log.debug("cerebro de molol'l'northgdrtht");
+		log.debug("cerebro de mololyujtyuuio'l'northuioigdrt8y7ht");
 	}
 }
